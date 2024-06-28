@@ -38,7 +38,8 @@ Passionate Full Stack Developer transitioning from over 15 years in production e
 
 
 
-[![LinkedIn](https://cdn.svgporn.com/logos/linkedin-icon.svg){: width="24px" style="border-radius: 8px;"}](https://www.linkedin.com/in/julientanguy56)
+[<img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="24" style="border-radius: 8px;">](https://www.linkedin.com/in/julientanguy56)
+
 [![Mail](https://c.clc2l.com/c/thumbnail75webp/t/a/p/apple-mail-Naptot.png){: width="24px" style="border-radius: 8px;"}](mailto:tanguyjulien@hotmail.fr)
 
 
