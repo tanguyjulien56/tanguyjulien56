@@ -4,7 +4,7 @@
 Passionate Full Stack Developer transitioning from over 15 years in production engineering, project management, and continuous improvement. Certified in full stack development, with experience in open source projects. Combining technical skills with management expertise
 
 
-### Hi, I'm Julien Tanguy 👋
+### Hi, I'm Julien 👋
 
 - I'm an enthusiastic Junior Web Developer and you can see my work on my the link (will be available soon)
 - I have over 15 years of experience in production engineering and project management 🏭
