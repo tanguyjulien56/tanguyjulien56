@@ -36,9 +36,10 @@ Passionate Full Stack Developer transitioning from over 15 years in production e
 
 ### Contact Me 📞
 
+[![LinkedIn](https://github.com/Pops47/pops47/blob/main/assets/images/linkedin.png)](https://www.linkedin.com/in/julientanguy56)&nbsp;
+[![Mail](https://github.com/Pops47/pops47/blob/main/assets/images/email.png)](mailto:tanguyjulien@hotmail.fr)
 
-
-[![LinkedIn]([https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/brands/linkedin.svg](https://cdn.svgporn.com/logos/linkedin-icon.svg))](https://www.linkedin.com/in/julientanguy56)
+[![LinkedIn](https://cdn.svgporn.com/logos/linkedin-icon.svg)](https://www.linkedin.com/in/julientanguy56)
 
 
 [![Mail]([https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/regular/envelope.svg](https://c.clc2l.com/c/thumbnail75webp/t/a/p/apple-mail-Naptot.png))](mailto:tanguyjulien@hotmail.fr)
