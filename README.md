@@ -36,9 +36,11 @@ Passionate Full Stack Developer transitioning from over 15 years in production e
 
 ### Contact Me 📞
 
-[![GitHub](https://github.com/fluidicon.png)](https://github.com/tanguyjulien56)
 
-[![LinkedIn](https://brand.linkedin.com/etc/designs/linkedin/katy/global/clientlibs/img/default-share.png)](https://www.linkedin.com/in/julientanguy56)
 
-[![Mail](https://image.flaticon.com/icons/png/512/561/561188.png)](mailto:tanguyjulien@hotmail.fr)
+[![LinkedIn](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/brands/linkedin.svg)](https://www.linkedin.com/in/julientanguy56)
+
+
+[![Mail](https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/icons/regular/envelope.svg)](mailto:tanguyjulien@hotmail.fr)
+
 
