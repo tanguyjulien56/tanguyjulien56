@@ -6,10 +6,10 @@ Passionate Full Stack Developer transitioning from over 15 years in production e
 
 ### Hi, I'm Julien Tanguy 👋
 
-- I'm an enthusiastic Junior Web Developer and you can see my work on my the link will be available soon
+- I'm an enthusiastic Junior Web Developer and you can see my work on my the link (will be available soon)
 - I have over 15 years of experience in production engineering and project management 🏭
 - I live in Brittany, between Vannes and Rennes, France 🇫🇷
-- I love learning and understanding new things, especially in technology, science, and education 🌍
+- I enjoy learning new concepts both in my professional life and personal pursuits.
 - Married and proud dad of two kids who are my pride and stability 👨‍👩‍👧‍👦
 - Passionate about cycling, I combine my love for tech and sport by managing the website and social media for my local cycling club. 🚴‍♂️💻 It's a wheelie good way to stay active and connected! 😂
   
