@@ -3,6 +3,7 @@
 
 Passionate Full Stack Developer transitioning from over 15 years in production engineering, project management, and continuous improvement. Certified in full stack development, with experience in open source projects. Combining technical skills with management expertise
 
+👨‍💻 Voici le lien vers mon [Portfolio](https://portfolio-julien-tanguy.vercel.app/).
 
 ### Hi, I'm Julien 👋
 
