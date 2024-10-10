@@ -7,7 +7,7 @@ Passionate Full Stack Developer transitioning from over 15 years in production e
 
 ### Hi, I'm Julien 👋
 
-- I'm an enthusiastic Junior Web Developer and you can see my work on my the link (will be available soon)
+- I'm an enthusiastic Web Developer and you can see my work on my the link (will be available soon)
 - I have over 15 years of experience in production engineering and project management 🏭
 - I live in Brittany, between Vannes and Rennes, France 🇫🇷
 - I enjoy learning new concepts both in my professional life and personal pursuits.
